@@ -1,6 +1,0 @@
-framework module Pods_WordQuizDaily {
-  umbrella header "Pods-WordQuizDaily-umbrella.h"
-
-  export *
-  module * { export * }
-}
